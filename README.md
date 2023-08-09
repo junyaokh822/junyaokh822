@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 🔭 I’m currently working on a Capstone project
 - 🌱 I’m currently learning PERN
 - 👯 I’m looking to collaborate on the full-stack development project
